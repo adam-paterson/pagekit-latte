@@ -1,0 +1,17 @@
+{
+    "name": "adampaterson/pagekit-latte",
+    "description": "Latte templating engine support for Pagekit",
+    "require": {
+        "latte/latte": "dev-master"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "dev-master"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Adam Paterson",
+            "email": "hello@adampaterson.co.uk"
+        }
+    ]
+}
